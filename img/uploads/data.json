@@ -1,0 +1,48 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": "U4YDERmIKJnLy7DxV8cY4IVO3WtNc6pY"
+    },
+    "github": {
+      "branch": "main",
+      "customUrl": "https://cdn.jsdelivr.net/gh/amrice/jc1",
+      "path": "img/uploads/",
+      "repo": "amrice/jc1",
+      "token": "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"
+    },
+    "proxy": "http://127.0.0.1:7890"
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": false,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "快捷上传"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "privacyEnsure": true,
+    "showUpdateTip": true,
+    "pasteStyle": "URL",
+    "proxy": "http://127.0.0.1:7890",
+    "registry": "",
+    "autoStart": true,
+    "rename": false,
+    "autoRename": false,
+    "logLevel": [
+      "error"
+    ],
+    "uploadNotification": false
+  },
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false
+}
